@@ -1,3 +1,6 @@
-.idea
-.vscode
+# IDE and Editor Configurations
+.idea/
+.vscode/
+
+# macOS System Files
 .DS_Store
